@@ -40,5 +40,5 @@ const contractABI = [
     }
   ]
   
-  const contractAddress = '0xYourDeployedContractAddress'; // Replace with your contract's address
+  const contractAddress = '0x648b26Ce4136Ea096e20f433FA31Cd357AeD392D'; 
   
